@@ -3,6 +3,7 @@ title: "Metadata Management"
 author: DataONE Community Engagement & Outreach Working Group
 update: Oct. 25, 2016
 layout: slides
+speaker notes: ilana hernandez
 
 
 ---
